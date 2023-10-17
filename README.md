@@ -71,7 +71,7 @@
 ![10 1](https://github.com/cchoirun/Jarkom-Modul-2-D12-2023/assets/115228631/a4277f54-47d2-4069-a3a3-b2957a05222a)
 
 
-11.
+11. script
 ![11 1](https://github.com/cchoirun/Jarkom-Modul-2-D12-2023/assets/115228631/3b65df8a-ae04-4e69-aa25-f2c62684ca9c)
 ![11 2](https://github.com/cchoirun/Jarkom-Modul-2-D12-2023/assets/115228631/99b4e4fe-74fc-4b9e-befb-b8f48d790c92)
 
